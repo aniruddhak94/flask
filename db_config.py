@@ -1,0 +1,5 @@
+DB_HOST = 'my-feedback-db.cn80ik86q4em.ap-south-1.rds.amazonaws.com'
+DB_USER = 'admin'
+DB_PASSWORD = 'xCEYzyLvqOZbBXfh'
+DB_NAME = 'feedbackdb'
+DB_INSTANCE_IDENTIFIER = 'my-feedback-db'
